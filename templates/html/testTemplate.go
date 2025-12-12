@@ -1,0 +1,3 @@
+package html
+
+const TestTemplate = ``
